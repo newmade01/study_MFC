@@ -42,4 +42,5 @@ CWnd는 창 클래스의 기본 기능을 사용하기 위한 클래스
 
 ### 프로그램 전체 흐름도
 ![](https://t1.daumcdn.net/cfile/tistory/11691C364D5AE6EA25)
+![](https://t1.daumcdn.net/cfile/tistory/135DB73E4D5AE6EA27)
 
