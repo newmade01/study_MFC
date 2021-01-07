@@ -2,7 +2,7 @@
 
 
 
-##### MessageDriven방식
+###  MessageDriven방식
 -  GetMessage()
 함수를 통해 메시지 큐(Message Queue)에서 메시지(Message)를 가져옴
 
@@ -36,4 +36,7 @@ CWnd는 창 클래스의 기본 기능을 사용하기 위한 클래스
 
 ![](https://t1.daumcdn.net/cfile/tistory/19530E3B4D5AE3AD1F)
 ![](https://t1.daumcdn.net/cfile/tistory/1360C3424D5AE3AD21)
+![](https://t1.daumcdn.net/cfile/tistory/1977F23A4D5AE6E927)
 
+
+- 
